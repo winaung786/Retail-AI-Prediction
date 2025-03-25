@@ -31,9 +31,6 @@ The project supports different tones for the generated descriptions, including:
 You can select the desired tone when running the notebook.
 
 
-## Screenshots
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
 
 These screenshots provide a visual representation of the project's interface and outputs.
 
@@ -88,8 +85,6 @@ This project uses Hugging Face to predict product demand and perform customer se
 - Experiment with different parameters and data to explore the capabilities of the model.
 
 
-## Screenshots
-![Application Interface](path_to_screenshot.png)
 
 
 ## Contributing
