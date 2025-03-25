@@ -1,5 +1,5 @@
 # Retail-AI-Prediction
-AI
+
 ## Overview
 This project aims to leverage AI and machine learning techniques to make predictions in the retail industry. It utilizes Hugging Face models for various tasks such as product demand prediction and customer segmentation.
 ## Features
