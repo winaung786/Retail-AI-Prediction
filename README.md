@@ -52,10 +52,9 @@ Acknowledgments:
 4. [Sample Outputs](#sample-outputs)
 5. [Setup Instructions](#setup-instructions)
 6. [Usage Guidelines](#usage-guidelines)
-7. [Screenshots](#screenshots)
-8. [Contributing](#contributing)
-9. [License](#license)
-project for retail predictions using Hugging Face
+7. [Contributing](#contributing)
+8. [License](#license)
+Project for retail predictions using Hugging Face
 
 ## Summary
 This project uses Hugging Face to predict product demand and perform customer segmentation in the retail industry.
