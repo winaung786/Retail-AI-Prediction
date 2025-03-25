@@ -1,0 +1,5 @@
+# Normalize text files to use LF line endings
+* text=auto
+
+# Treat Jupyter notebooks as binary files
+*.ipynb binary
